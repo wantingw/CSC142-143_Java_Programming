@@ -1,0 +1,39 @@
+package spacex;
+import utility.Comparable;
+public class Payload {
+	
+	private String name;
+	private String type;
+	private double mass;
+	private String orbit;
+	
+	public Payload() {
+		this("", "", 0.0, "");
+	}
+	
+	
+	
+	public Payload(String name, String type, double mass, String orbit) {
+		this.name = name;
+		this.type = type;
+		this.mass = mass;
+		this.orbit = orbit;
+	}
+
+	public String toString() {
+		StringBuilder builder  	=  new StringBuilder("\n");
+		int size  				= 	4;
+		DataMap[] map 	=	new DataMap[size];
+		map[0]			= 	new DataMap("Name: "		,name);
+		map[1]			= 	new DataMap("Type: "		,type);
+		map[2]			= 	new DataMap("Mass(kg): "	,Double.toString(mass));
+		map[3]			= 	new DataMap("Orbit: "		,orbit);
+		
+		for (int i = 0; i < size; i++) {
+			builder.append(String.format("%-18s %-4s \n", map[i].name, map[i].value));
+		}
+		
+		return builder.toString();
+	}
+	
+}

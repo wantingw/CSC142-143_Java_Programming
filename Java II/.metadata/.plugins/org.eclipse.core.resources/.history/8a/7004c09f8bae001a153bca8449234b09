@@ -1,0 +1,23 @@
+package test;
+import spacex.Mission;
+
+public class TestBuilder {
+
+	public static void main(String[] args) {
+		Mission mission_01 = new Mission.Builder()
+				.setFlightNumber("F-13")
+				.setVehicleType("Falcon Heavy")
+				.build();
+		
+		System.out.println(mission_01.getFlightNumber());
+		System.out.println(mission_01.getVehicleType());
+	
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println(mission_01);
+		
+	}
+
+}

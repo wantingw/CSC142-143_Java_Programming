@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.sun.java_cup.internal.runtime.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.awt.Polygon"/>
+    <fullyQualifiedTypeName name="uwcse.graphics.Polygon"/>
+    <fullyQualifiedTypeName name="uwcse.graphics.Line"/>
+    <fullyQualifiedTypeName name="java.awt.Color"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="uwcse.graphics.GWindow"/>
+    <fullyQualifiedTypeName name="uwcse.graphics.Triangle"/>
+    <fullyQualifiedTypeName name="uwcse.graphics.Oval"/>
+    <fullyQualifiedTypeName name="uwcse.io.Input"/>
+    <fullyQualifiedTypeName name="uwcse.graphics.Rectangle"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+</qualifiedTypeNameHistroy>

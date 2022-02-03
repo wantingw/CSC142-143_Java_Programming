@@ -1,0 +1,35 @@
+package test;
+
+import spacex.Date;
+import spacex.Time;
+
+public class ComparisonTest {
+	
+	public static void main(String[] args) {
+		System.out.println("----- Dates -----");
+		Date date_01 		= new Date("07/14/2009");
+		Date date_02		= new Date(1,5,2016);
+		Time time_01		= new Time("22:30");
+		Time time_02		= new Time(01, 10);
+		System.out.println(date_01.compareTo(date_02));
+		System.out.println(date_01.compareTo(new Date(7,12,2009)));
+		System.out.println(date_01.compareTo(new Date(7,14,2008)));
+		System.out.println(date_01.compareTo(new Date(7,14,2009)));
+		System.out.println(date_01.equals(new Date(7,14,2009)));
+		
+		
+		
+		System.out.println("");
+		System.out.println("");
+		System.out.println("----- Names -----");
+		// n o p q r
+		System.out.println("Arthur".compareTo("Andrew"));
+		System.out.println("Andrew".compareTo("Arthur"));
+		System.out.println("Andrew".compareTo("Borris"));
+		
+		// a b c d e f g h i j k l m n o
+		System.out.println("Barry".compareTo("Borris"));
+		
+	}
+
+}

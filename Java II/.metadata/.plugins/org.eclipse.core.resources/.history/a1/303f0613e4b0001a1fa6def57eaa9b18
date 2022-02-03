@@ -1,0 +1,9 @@
+package control;
+
+public class MissionControlClient {
+	
+	public static void main(String[] args) {
+		
+	}
+
+}

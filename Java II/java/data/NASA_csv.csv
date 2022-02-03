@@ -1,0 +1,14 @@
+Flight Number,Launch Date,Launch Time,Launch Site,Vehicle Type,Payload Name,Payload Type,Payload Mass (kg),Payload Orbit,Customer Name,Customer Type,Customer Country,Mission Outcome,Failure Reason,Landing Type,Landing Outcome
+F1-3,3-Aug-08,3:34,Marshall Islands,Falcon 1,PRESat-NanoSail-D,Research Satellites,8.00,,NASA,Government,United States,Failure,Collision During Launch,,
+F9-2,8-Dec-10,15:43,Cape Canaveral AFS LC-40,Falcon 9 (v1.0),SpaceX CRS (Dragon C1),Space Station Supplies,0.00,Low Earth Orbit,NASA,Government,United States,Success,,Parachute,Failure
+F9-3,22-May-12,7:44,Cape Canaveral AFS LC-40,Falcon 9 (v1.0),SpaceX CRS (Dragon C2+),Space Station Supplies,0.00,Low Earth Orbit,NASA,Government,United States,Success,,,
+F9-4,8-Oct-12,0:35,Cape Canaveral AFS LC-40,Falcon 9 (v1.0),SpaceX CRS-1,Space Station Supplies,500.00,Low Earth Orbit,NASA,Government,United States,Success,,,
+F9-5,1-Mar-13,15:10,Cape Canaveral AFS LC-40,Falcon 9 (v1.0),SpaceX CRS-2,Space Station Supplies,677.00,Low Earth Orbit,NASA,Government,United States,Success,,,
+F9-9,18-Apr-14,19:25,Cape Canaveral AFS LC-40,Falcon 9 (v1.1),SpaceX CRS-3,Space Station Supplies,2296.00,Low Earth Orbit,NASA,Government,United States,Success,,Ocean,Success
+F9-13,21-Sep-14,5:52,Cape Canaveral AFS LC-40,Falcon 9 (v1.1),SpaceX CRS-4,Space Station Supplies,2216.00,Geostationary Transfer Orbit,NASA,Government,United States,Success,,Ocean,Success
+F9-14,10-Jan-15,9:47,Cape Canaveral AFS LC-40,Falcon 9 (v1.1),SpaceX CRS-5,Space Station Supplies,2395.00,Low Earth Orbit,NASA,Government,United States,Success,,Ship,Failure
+F9-17,14-Apr-15,20:10,Cape Canaveral AFS LC-40,Falcon 9 (v1.1),SpaceX CRS-6,Space Station Supplies,1898.00,Low Earth Orbit,NASA,Government,United States,Success,,Ship,Failure
+F9-19,28-Jun-15,14:21,Cape Canaveral AFS LC-40,Falcon 9 (v1.1),SpaceX CRS-7,Space Station Supplies,1952.00,Low Earth Orbit,NASA,Government,United States,Failure,Vehicle Explosion During Flight,,
+FT-3,8-Apr-16,20:43,Cape Canaveral AFS LC-40,Falcon 9 Full Thrust (v1.2),SpaceX CRS-8,Space Station Supplies,3136.00,Low Earth Orbit,NASA,Government,United States,Success,,Ship,Success
+FT-7,18-Jul-16,4:45,Cape Canaveral AFS LC-40,Falcon 9 Full Thrust (v1.2),SpaceX CRS-9,Space Station Supplies,2257.00,Low Earth Orbit,NASA,Government,United States,Success,,Land,Success
+FT-11,19-Feb-17,14:39,Kennedy Space Center LC-39A,Falcon 9 Full Thrust (v1.2),SpaceX CRS-10,Space Station Supplies,2490.00,Low Earth Orbit,NASA,Government,United States,Success,,Land,Success

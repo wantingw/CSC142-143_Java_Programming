@@ -1,0 +1,41 @@
+package spacex;
+
+public class Time {
+	
+	private int 	hour;
+	private int 	minutes;
+	private int 	seconds;
+	private String 	meridiem;
+	
+	public Time() {
+		this(0, 0, 0, "");
+	}
+	
+	public Time(String time) {
+		// hour: min: secs MM"
+		String[] str   		= time.split(":");
+		String[] end   		= str[2].split(" ");
+		hour   				= Integer.parseInt(str[0]);
+		minutes	 			= Integer.parseInt(str[1]);
+		seconds	 			= Integer.parseInt(end[0]);
+		meridiem			= end[1];
+		
+		
+	}
+	
+	public Time(int hour, int minutes, int seconds, String meridiem) {
+		this.hour 		= hour;
+		this.minutes 	= minutes;
+		this.seconds 	= seconds;
+		this.meridiem 	= meridiem;
+	}
+
+
+
+	public String toString() {
+		// The 0 in %02d will pad the number with a zero instead of spaces.
+		String time = String.format("%d:%02d:%02d %s", hour, minutes, seconds, meridiem);
+		// ternary operator -> result = (expression1) ? expression 2 : expression 3;
+		return time.equals("0:0:0 ")? "" : time;
+	}
+}

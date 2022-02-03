@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="true"/>
+		<item key="wholeword" value="true"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<item key="selection" value="missionCustomer"/>
+		<list key="findhistory">
+			<item value="customerFromList"/>
+			<item value="str"/>
+			<item value="&#x09;public Date(int day, int month, int year) {"/>
+			<item value="&#x09;public void add(int index, int value) {"/>
+		</list>
+		<list key="replacehistory">
+			<item value="missionCustomer"/>
+			<item value="column"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="343"/>
+		<item key="DIALOG_Y_ORIGIN" value="128"/>
+		<item key="DIALOG_WIDTH" value="290"/>
+		<item key="DIALOG_HEIGHT" value="409"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+	</section>
+</section>

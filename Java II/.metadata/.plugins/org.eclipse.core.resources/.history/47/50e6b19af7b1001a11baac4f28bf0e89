@@ -1,0 +1,84 @@
+package control;
+
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.util.Scanner;
+import spacex.Mission;
+import spacex.Customer;
+import spacex.Date;
+import spacex.Payload;
+import spacex.Time;
+
+import utility.List;
+import lists.ArrayList;
+
+public class Manager {
+	
+	private List<Mission>	list;
+	private String 			csvFileHeader;
+	
+	public Manager() {
+		list	= new ArrayList<Mission>();
+	}
+	
+	private Mission parse(String line) throws IllegalArgumentException{
+		String[]	str				= line.split(",");
+		String[]	column			= new String[16];
+		
+		for (int i = 0; i < str.length; i++) {
+			column[i] = str[i];
+		}
+		
+		if(str.length < column.length){
+			for (int i = str.length; i < column.length; i++) {
+				column[i] = "";
+			}
+		}
+		String		flightNumber	= column[0];
+		Date		launchDate		= new Date(column[1]);
+		Time		launchTime		= new Time(column[2]);
+		String		launchSite		= column[3];
+		String		vehicleType		= column[4];
+		double		mass			= column[7].equals("") ? 0.0 : Double.parseDouble(column[7]);
+		Payload		payload			= new Payload(column[5], column[6], mass, column[8]);
+		Customer	customer		= new Customer(column[9], column[10], column[11]);
+		String		missionOutcome	= column[12];
+		String		failureReason	= column[13];
+		String		landingType		= column[14];
+		String		landingOutcome	= column[15];
+		
+		return new Mission.Builder()
+				.setFlightNumber(flightNumber)
+				.setLaunchDate(launchDate)
+				.setLaunchTime(launchTime)
+				.setLaunchSite(launchSite)
+				.setVehicleType(vehicleType)
+				.setPayload(payload)
+				.setCustomer(customer)
+				.setMissionOutcome(missionOutcome)
+				.setFailureReason(failureReason)
+				.setLandingType(landingType)
+				.setLandingOutcome(landingOutcome)
+				.build();
+	}
+	
+	public void read(String location) throws FileNotFoundException {
+		File 	file  		=	new File(location);
+		Scanner input		=	new Scanner(file);	
+		Mission missionData;
+		
+		if(input.hasNextLine())
+			csvFileHeader = input.nextLine();
+			
+		while(input.hasNextLine()) {
+			//create a mission object
+			missionData = parse(input.nextLine());
+			
+			//check for duplicates
+			if(list.contains(missionData))
+				list.add(missionData);
+			}
+		input.close();
+	}
+
+}

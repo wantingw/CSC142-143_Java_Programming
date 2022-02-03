@@ -1,0 +1,29 @@
+package control;
+
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.util.Scanner;
+import spacex.Mission;
+import utility.List;
+import lists.ArrayList;
+
+public class Manager {
+	
+	private List<Mission>	list;
+	private String 			csvFileHeader;
+	
+	public Manager() {
+		list	= new ArrayList<Mission>();
+	}
+	
+	public void read(String location) throws FileNotFoundException {
+		File 	file  		=	new File(location);
+		Scanner input		=	new Scanner(file);	
+		Mission missionData;
+		
+		if(input.hasNextLine())
+			csvFileHeader = input.nextLine();
+			
+	}
+
+}

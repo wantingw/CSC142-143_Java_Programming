@@ -1,0 +1,36 @@
+package spacex;
+
+public class Time {
+	
+	private int 	hour;
+	private int 	minutes;
+	private int 	seconds;
+	private String 	meridiem;
+	
+	public Time() {
+		
+	}
+	
+	public Time(String time) {
+		String[] str   		= time.split(":");
+		String[] end   		= str[2].split(" ");
+		hour   				= Integer.parseInt(str[0]);
+		minutes	 			= Integer.parseInt(str[1]);
+		seconds	 			= Integer.parseInt(str[2]);
+		meridiem			= end[1];
+		
+		
+	}
+	
+	public Time(int hour, int minutes, int seconds) {
+		this.hour = hour;
+		this.minutes = minutes;
+		this.seconds = seconds;
+	}
+
+
+
+	public String toString() {
+		return "";
+	}
+}

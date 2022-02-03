@@ -1,0 +1,16 @@
+package test;
+
+public class ComparisonTest {
+	
+	public static void main(String[] args) {
+		// n o p q r
+		System.out.println("Arthur".compareTo("Andrew"));
+		System.out.println("Andrew".compareTo("Arthur"));
+		System.out.println("Andrew".compareTo("Borris"));
+		
+		// a b c d e f g h i j k l m n o
+		System.out.println("Barry".compareTo("Borris"));
+		
+	}
+
+}

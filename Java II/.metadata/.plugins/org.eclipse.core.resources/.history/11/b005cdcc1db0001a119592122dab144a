@@ -1,0 +1,11 @@
+package test;
+
+public class ComparisonTest {
+	
+	public static void main(String[] args) {
+		System.out.println("Arthur".compareTo("Andrew"));
+		System.out.println("Andrew".compareTo("Arthur"));
+		
+	}
+
+}

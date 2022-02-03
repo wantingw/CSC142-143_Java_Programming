@@ -1,0 +1,67 @@
+package control;
+
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.util.Scanner;
+import spacex.Mission;
+import spacex.Customer;
+import spacex.Date;
+import spacex.Payload;
+import spacex.Time;
+
+import utility.List;
+import lists.ArrayList;
+
+public class Manager {
+	
+	private List<Mission>	list;
+	private String 			csvFileHeader;
+	
+	public Manager() {
+		list	= new ArrayList<Mission>();
+	}
+	
+	private Mission parse(String line) throws IllegalArgumentException{
+		String[]	str				= line.split(",");
+		String		flightNumber	= str[0];
+		Date		launchDate		= new Date(str[1]);
+		Time		launchTime		= new Time(str[2]);
+		String		launchSite		= str[3];
+		String		vehicleType		= str[4];
+		double		mass			= Double.parseDouble(str[7]);
+		Payload		payload			= new Payload(str[5], str[6], mass, str[8]);
+		Customer	customer		= new Customer(str[9], str[10], str[11]);
+		String		missionOutcome	= str[12];
+		String		failureReason	= str[13];
+		String		landingType		= str[14];
+		String		landingOutcome	= str[15];
+		
+		return new Mission.Builder()
+				.setFlightNumber(flightNumber)
+				.setLaunchDate(launchDate)
+				.setLaunchTime(launchTime)
+				.setLaunchSite(launchSite)
+				.setVehicleType(vehicleType)
+				.setPayload(payload)
+				.setCustomer(customer)
+				.setMissionOutcome(missionOutcome)
+				.setFailureReason(failureReason)
+				.setLandingType(landingType)
+				.setLandingOutcome(landingOutcome)
+				.build();
+	}
+	
+	public void read(String location) throws FileNotFoundException {
+		File 	file  		=	new File(location);
+		Scanner input		=	new Scanner(file);	
+		Mission missionData;
+		
+		if(input.hasNextLine())
+			csvFileHeader = input.nextLine();
+			
+		while(input.hasNextLine()) {
+			//missionData 
+		}
+	}
+
+}

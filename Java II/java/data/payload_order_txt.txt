@@ -1,0 +1,943 @@
+-----------------------------------------------------------
+Flight Number:     FT-6 
+Launch Date:       15-Jun-16 
+Launch Time:       14:29 
+Launch Site:       Cape Canaveral AFS LC-40 
+Vehicle Type:      Falcon 9 Full Thrust (v1.2) 
+
+Payload:          
+Name:              ABS-2A 
+Type:              Communication Satellite 
+Mass(kg):          3600.0 
+Orbit:             Geostationary Transfer Orbit 
+ 
+Customer:          
+Name:              Asia Broadcast Satellite 
+Type:              Business 
+Country:           Bermuda 
+ 
+MissionOutcome:    Success 
+Failure Reason:         
+Landing Type:      Ship 
+Landing Outcome:   Failure 
+
+-----------------------------------------------------------
+Flight Number:     F9-16 
+Launch Date:       2-Mar-15 
+Launch Time:       3:50 
+Launch Site:       Cape Canaveral AFS LC-40 
+Vehicle Type:      Falcon 9 (v1.1) 
+
+Payload:          
+Name:              ABS-3A 
+Type:              Communication Satellite 
+Mass(kg):          4159.0 
+Orbit:             Geostationary Transfer Orbit 
+ 
+Customer:          
+Name:              Asia Broadcast Satellite 
+Type:              Business 
+Country:           Bermuda 
+ 
+MissionOutcome:    Success 
+Failure Reason:         
+Landing Type:      None 
+Landing Outcome:        
+
+-----------------------------------------------------------
+Flight Number:     FT-9 
+Launch Date:       1-Sep-16 
+Launch Time:       13:07 
+Launch Site:       Cape Canaveral AFS LC-40 
+Vehicle Type:      Falcon 9 Full Thrust (v1.2) 
+
+Payload:          
+Name:              Amos-6 
+Type:              Communication Satellite 
+Mass(kg):          5500.0 
+Orbit:             Geostationary Transfer Orbit 
+ 
+Customer:          
+Name:              Spacecom 
+Type:              Business 
+Country:           Israel 
+ 
+MissionOutcome:    Failure 
+Failure Reason:    Vehicle Explosion Before Launch 
+Landing Type:           
+Landing Outcome:        
+
+-----------------------------------------------------------
+Flight Number:     F9-12 
+Launch Date:       7-Sep-14 
+Launch Time:       5:00 
+Launch Site:       Cape Canaveral AFS LC-40 
+Vehicle Type:      Falcon 9 (v1.1) 
+
+Payload:          
+Name:              AsiaSat 6 
+Type:              Communication Satellite 
+Mass(kg):          4428.0 
+Orbit:             Geostationary Transfer Orbit 
+ 
+Customer:          
+Name:              AsiaSat 
+Type:              Business 
+Country:           China 
+ 
+MissionOutcome:    Success 
+Failure Reason:         
+Landing Type:      None 
+Landing Outcome:        
+
+-----------------------------------------------------------
+Flight Number:     F9-11 
+Launch Date:       5-Aug-14 
+Launch Time:       8:00 
+Launch Site:       Cape Canaveral AFS LC-40 
+Vehicle Type:      Falcon 9 (v1.1) 
+
+Payload:          
+Name:              AsiaSat 8 
+Type:              Communication Satellite 
+Mass(kg):          4535.0 
+Orbit:             Geostationary Transfer Orbit 
+ 
+Customer:          
+Name:              AsiaSat 
+Type:              Business 
+Country:           China 
+ 
+MissionOutcome:    Success 
+Failure Reason:         
+Landing Type:      None 
+Landing Outcome:        
+
+-----------------------------------------------------------
+Flight Number:     F9-6 
+Launch Date:       29-Sep-13 
+Launch Time:       16:00 
+Launch Site:       Vandenberg AFB SLC-4E 
+Vehicle Type:      Falcon 9 (v1.1) 
+
+Payload:          
+Name:              CASSIOPE 
+Type:              Communication/Research Satellite 
+Mass(kg):          500.0 
+Orbit:             Polar Orbit 
+ 
+Customer:          
+Name:              MDA Corp 
+Type:              Business 
+Country:           Canada 
+ 
+MissionOutcome:    Success 
+Failure Reason:         
+Landing Type:      Ocean 
+Landing Outcome:   Failure 
+
+-----------------------------------------------------------
+Flight Number:     F9-15 
+Launch Date:       11-Feb-15 
+Launch Time:       23:03 
+Launch Site:       Cape Canaveral AFS LC-40 
+Vehicle Type:      Falcon 9 (v1.1) 
+
+Payload:          
+Name:              DSCOVR 
+Type:              Weather Satellite 
+Mass(kg):          570.0 
+Orbit:             Sun/Earth Orbit 
+ 
+Customer:          
+Name:              US Air Force; NASA; NOAA 
+Type:              Government 
+Country:           United States 
+ 
+MissionOutcome:    Success 
+Failure Reason:         
+Landing Type:      Ocean 
+Landing Outcome:   Success 
+
+-----------------------------------------------------------
+Flight Number:     F1-2 
+Launch Date:       21-Mar-07 
+Launch Time:       1:10 
+Launch Site:       Marshall Islands 
+Vehicle Type:      Falcon 1 
+
+Payload:          
+Name:              DemoSat 
+Type:                   
+Mass(kg):          0.0  
+Orbit:                  
+ 
+Customer:          
+Name:              DARPA 
+Type:              Government 
+Country:           United States 
+ 
+MissionOutcome:    Failure 
+Failure Reason:    Engine Shutdown During Launch 
+Landing Type:           
+Landing Outcome:        
+
+-----------------------------------------------------------
+Flight Number:     F9-1 
+Launch Date:       4-Jun-10 
+Launch Time:       18:45 
+Launch Site:       Cape Canaveral AFS LC-40 
+Vehicle Type:      Falcon 9 (v1.0) 
+
+Payload:          
+Name:              Dragon Spacecraft Qualification Unit 
+Type:                   
+Mass(kg):          0.0  
+Orbit:             Low Earth Orbit 
+ 
+Customer:          
+Name:                   
+Type:                   
+Country:                
+ 
+MissionOutcome:    Success 
+Failure Reason:         
+Landing Type:      Parachute 
+Landing Outcome:   Failure 
+
+-----------------------------------------------------------
+Flight Number:     F9-16 
+Launch Date:       2-Mar-15 
+Launch Time:       3:50 
+Launch Site:       Cape Canaveral AFS LC-40 
+Vehicle Type:      Falcon 9 (v1.1) 
+
+Payload:          
+Name:              Eutelsat 115 West B (Satmex 7) 
+Type:              Communication Satellite 
+Mass(kg):          4159.0 
+Orbit:             Geostationary Transfer Orbit 
+ 
+Customer:          
+Name:              Eutelsat (Satmex) 
+Type:              Business 
+Country:           France (Mexico) 
+ 
+MissionOutcome:    Success 
+Failure Reason:         
+Landing Type:      None 
+Landing Outcome:        
+
+-----------------------------------------------------------
+Flight Number:     FT-6 
+Launch Date:       15-Jun-16 
+Launch Time:       14:29 
+Launch Site:       Cape Canaveral AFS LC-40 
+Vehicle Type:      Falcon 9 Full Thrust (v1.2) 
+
+Payload:          
+Name:              Eutelsat 117 West B (Satmex 9) 
+Type:              Communication Satellite 
+Mass(kg):          3600.0 
+Orbit:             Geostationary Transfer Orbit 
+ 
+Customer:          
+Name:              Eutelsat (Satmex) 
+Type:              Business 
+Country:           France (Mexico) 
+ 
+MissionOutcome:    Success 
+Failure Reason:         
+Landing Type:      Ship 
+Landing Outcome:   Failure 
+
+-----------------------------------------------------------
+Flight Number:     F1-3 
+Launch Date:       3-Aug-08 
+Launch Time:       3:34 
+Launch Site:       Marshall Islands 
+Vehicle Type:      Falcon 1 
+
+Payload:          
+Name:              Explorers 
+Type:              Human Remains 
+Mass(kg):          0.0  
+Orbit:                  
+ 
+Customer:          
+Name:              Celestis 
+Type:              Business 
+Country:           United States 
+ 
+MissionOutcome:    Failure 
+Failure Reason:    Collision During Launch 
+Landing Type:           
+Landing Outcome:        
+
+-----------------------------------------------------------
+Flight Number:     F1-1 
+Launch Date:       24-Mar-06 
+Launch Time:       22:30 
+Launch Site:       Marshall Islands 
+Vehicle Type:      Falcon 1 
+
+Payload:          
+Name:              FalconSAT-2 
+Type:              Research Satellite 
+Mass(kg):          19.5 
+Orbit:                  
+ 
+Customer:          
+Name:              DARPA 
+Type:              Government 
+Country:           United States 
+ 
+MissionOutcome:    Failure 
+Failure Reason:    Engine Fire During Launch 
+Landing Type:           
+Landing Outcome:        
+
+-----------------------------------------------------------
+Flight Number:     FT-10 
+Launch Date:       14-Jan-17 
+Launch Time:       17:54 
+Launch Site:       Vandenberg AFB SLC-4E 
+Vehicle Type:      Falcon 9 Full Thrust (v1.2) 
+
+Payload:          
+Name:              Iridium NEXT 1-10 
+Type:              Communication Satellite 
+Mass(kg):          9600.0 
+Orbit:             Low Earth Orbit 
+ 
+Customer:          
+Name:              Iridium Communications 
+Type:              Business 
+Country:           United States 
+ 
+MissionOutcome:    Success 
+Failure Reason:         
+Landing Type:      Ship 
+Landing Outcome:   Success 
+
+-----------------------------------------------------------
+Flight Number:     FT-4 
+Launch Date:       6-May-16 
+Launch Time:       5:21 
+Launch Site:       Cape Canaveral AFS LC-40 
+Vehicle Type:      Falcon 9 Full Thrust (v1.2) 
+
+Payload:          
+Name:              JCSAT-14 
+Type:              Communication Satellite 
+Mass(kg):          4696.0 
+Orbit:             Geostationary Transfer Orbit 
+ 
+Customer:          
+Name:              SKY Perfect JSAT Group 
+Type:              Business 
+Country:           Japan 
+ 
+MissionOutcome:    Success 
+Failure Reason:         
+Landing Type:      Ship 
+Landing Outcome:   Success 
+
+-----------------------------------------------------------
+Flight Number:     FT-8 
+Launch Date:       14-Aug-16 
+Launch Time:       5:26 
+Launch Site:       Cape Canaveral AFS LC-40 
+Vehicle Type:      Falcon 9 Full Thrust (v1.2) 
+
+Payload:          
+Name:              JCSAT-16 
+Type:              Communication Satellite 
+Mass(kg):          4600.0 
+Orbit:             Geostationary Transfer Orbit 
+ 
+Customer:          
+Name:              SKY Perfect JSAT Group 
+Type:              Business 
+Country:           Japan 
+ 
+MissionOutcome:    Success 
+Failure Reason:         
+Landing Type:      Ship 
+Landing Outcome:   Success 
+
+-----------------------------------------------------------
+Flight Number:     F9-21 
+Launch Date:       17-Jan-16 
+Launch Time:       18:42 
+Launch Site:       Vandenberg AFB SLC-4E 
+Vehicle Type:      Falcon 9 (v1.1) 
+
+Payload:          
+Name:              Jason-3 
+Type:              Weather Satellite 
+Mass(kg):          553.0 
+Orbit:             Low Earth Orbit 
+ 
+Customer:          
+Name:              NASA; NOAA; CNES 
+Type:              Government 
+Country:           United States 
+ 
+MissionOutcome:    Success 
+Failure Reason:         
+Landing Type:      Ship 
+Landing Outcome:   Failure 
+
+-----------------------------------------------------------
+Flight Number:     F9-10 
+Launch Date:       14-Jul-14 
+Launch Time:       15:15 
+Launch Site:       Cape Canaveral AFS LC-40 
+Vehicle Type:      Falcon 9 (v1.1) 
+
+Payload:          
+Name:              OG2 Mission 1 (6 OG2 Satellites) 
+Type:              Communication Satellite 
+Mass(kg):          0.0  
+Orbit:             Low Earth Orbit 
+ 
+Customer:          
+Name:              Orbcomm 
+Type:              Business 
+Country:           United States 
+ 
+MissionOutcome:    Success 
+Failure Reason:         
+Landing Type:      Ocean 
+Landing Outcome:   Success 
+
+-----------------------------------------------------------
+Flight Number:     FT-1 
+Launch Date:       22-Dec-15 
+Launch Time:       1:29 
+Launch Site:       Cape Canaveral AFS LC-40 
+Vehicle Type:      Falcon 9 Full Thrust (v1.2) 
+
+Payload:          
+Name:              OG2 Mission 2 (11 OG2 Satellites) 
+Type:              Communication Satellite 
+Mass(kg):          0.0  
+Orbit:             Low Earth Orbit 
+ 
+Customer:          
+Name:              Orbcomm 
+Type:              Business 
+Country:           United States 
+ 
+MissionOutcome:    Success 
+Failure Reason:         
+Landing Type:      Land 
+Landing Outcome:   Success 
+
+-----------------------------------------------------------
+Flight Number:     F9-4 
+Launch Date:       8-Oct-12 
+Launch Time:       0:35 
+Launch Site:       Cape Canaveral AFS LC-40 
+Vehicle Type:      Falcon 9 (v1.0) 
+
+Payload:          
+Name:              Orbcomm-OG2 
+Type:              Communication Satellite 
+Mass(kg):          150.0 
+Orbit:             Low Earth Orbit 
+ 
+Customer:          
+Name:              Orbcomm 
+Type:              Business 
+Country:           United States 
+ 
+MissionOutcome:    Failure 
+Failure Reason:    Engine Failure During Flight 
+Landing Type:           
+Landing Outcome:        
+
+-----------------------------------------------------------
+Flight Number:     F1-3 
+Launch Date:       3-Aug-08 
+Launch Time:       3:34 
+Launch Site:       Marshall Islands 
+Vehicle Type:      Falcon 1 
+
+Payload:          
+Name:              PRESat-NanoSail-D 
+Type:              Research Satellites 
+Mass(kg):          8.0  
+Orbit:                  
+ 
+Customer:          
+Name:              NASA 
+Type:              Government 
+Country:           United States 
+ 
+MissionOutcome:    Failure 
+Failure Reason:    Collision During Launch 
+Landing Type:           
+Landing Outcome:        
+
+-----------------------------------------------------------
+Flight Number:     F1-4 
+Launch Date:       28-Sep-08 
+Launch Time:       23:15 
+Launch Site:       Marshall Islands 
+Vehicle Type:      Falcon 1 
+
+Payload:          
+Name:              RatSat (DemoSat) 
+Type:                   
+Mass(kg):          165.0 
+Orbit:             Low Earth Orbit 
+ 
+Customer:          
+Name:                   
+Type:                   
+Country:                
+ 
+MissionOutcome:    Success 
+Failure Reason:         
+Landing Type:           
+Landing Outcome:        
+
+-----------------------------------------------------------
+Flight Number:     F1-5 
+Launch Date:       14-Jul-09 
+Launch Time:       3:35 
+Launch Site:       Marshall Islands 
+Vehicle Type:      Falcon 1 
+
+Payload:          
+Name:              RazakSAT 
+Type:              Weather Satellite 
+Mass(kg):          180.0 
+Orbit:             Low Earth Orbit 
+ 
+Customer:          
+Name:              ATSB 
+Type:              Government 
+Country:           Malaysia 
+ 
+MissionOutcome:    Success 
+Failure Reason:         
+Landing Type:           
+Landing Outcome:        
+
+-----------------------------------------------------------
+Flight Number:     F9-7 
+Launch Date:       3-Dec-13 
+Launch Time:       22:41 
+Launch Site:       Cape Canaveral AFS LC-40 
+Vehicle Type:      Falcon 9 (v1.1) 
+
+Payload:          
+Name:              SES-8 
+Type:              Communication Satellite 
+Mass(kg):          3170.0 
+Orbit:             Geostationary Transfer Orbit 
+ 
+Customer:          
+Name:              SES  
+Type:              Business 
+Country:           Luxembourg 
+ 
+MissionOutcome:    Success 
+Failure Reason:         
+Landing Type:      None 
+Landing Outcome:        
+
+-----------------------------------------------------------
+Flight Number:     FT-2 
+Launch Date:       4-Mar-16 
+Launch Time:       23:35 
+Launch Site:       Cape Canaveral AFS LC-40 
+Vehicle Type:      Falcon 9 Full Thrust (v1.2) 
+
+Payload:          
+Name:              SES-9 
+Type:              Communication Satellite 
+Mass(kg):          5271.0 
+Orbit:             Geostationary Transfer Orbit 
+ 
+Customer:          
+Name:              SES  
+Type:              Business 
+Country:           Luxembourg 
+ 
+MissionOutcome:    Success 
+Failure Reason:         
+Landing Type:      Ship 
+Landing Outcome:   Failure 
+
+-----------------------------------------------------------
+Flight Number:     F9-2 
+Launch Date:       8-Dec-10 
+Launch Time:       15:43 
+Launch Site:       Cape Canaveral AFS LC-40 
+Vehicle Type:      Falcon 9 (v1.0) 
+
+Payload:          
+Name:              SpaceX CRS (Dragon C1) 
+Type:              Space Station Supplies 
+Mass(kg):          0.0  
+Orbit:             Low Earth Orbit 
+ 
+Customer:          
+Name:              NASA 
+Type:              Government 
+Country:           United States 
+ 
+MissionOutcome:    Success 
+Failure Reason:         
+Landing Type:      Parachute 
+Landing Outcome:   Failure 
+
+-----------------------------------------------------------
+Flight Number:     F9-3 
+Launch Date:       22-May-12 
+Launch Time:       7:44 
+Launch Site:       Cape Canaveral AFS LC-40 
+Vehicle Type:      Falcon 9 (v1.0) 
+
+Payload:          
+Name:              SpaceX CRS (Dragon C2+) 
+Type:              Space Station Supplies 
+Mass(kg):          0.0  
+Orbit:             Low Earth Orbit 
+ 
+Customer:          
+Name:              NASA 
+Type:              Government 
+Country:           United States 
+ 
+MissionOutcome:    Success 
+Failure Reason:         
+Landing Type:           
+Landing Outcome:        
+
+-----------------------------------------------------------
+Flight Number:     F9-4 
+Launch Date:       8-Oct-12 
+Launch Time:       0:35 
+Launch Site:       Cape Canaveral AFS LC-40 
+Vehicle Type:      Falcon 9 (v1.0) 
+
+Payload:          
+Name:              SpaceX CRS-1 
+Type:              Space Station Supplies 
+Mass(kg):          500.0 
+Orbit:             Low Earth Orbit 
+ 
+Customer:          
+Name:              NASA 
+Type:              Government 
+Country:           United States 
+ 
+MissionOutcome:    Success 
+Failure Reason:         
+Landing Type:           
+Landing Outcome:        
+
+-----------------------------------------------------------
+Flight Number:     FT-11 
+Launch Date:       19-Feb-17 
+Launch Time:       14:39 
+Launch Site:       Kennedy Space Center LC-39A 
+Vehicle Type:      Falcon 9 Full Thrust (v1.2) 
+
+Payload:          
+Name:              SpaceX CRS-10 
+Type:              Space Station Supplies 
+Mass(kg):          2490.0 
+Orbit:             Low Earth Orbit 
+ 
+Customer:          
+Name:              NASA 
+Type:              Government 
+Country:           United States 
+ 
+MissionOutcome:    Success 
+Failure Reason:         
+Landing Type:      Land 
+Landing Outcome:   Success 
+
+-----------------------------------------------------------
+Flight Number:     F9-5 
+Launch Date:       1-Mar-13 
+Launch Time:       15:10 
+Launch Site:       Cape Canaveral AFS LC-40 
+Vehicle Type:      Falcon 9 (v1.0) 
+
+Payload:          
+Name:              SpaceX CRS-2 
+Type:              Space Station Supplies 
+Mass(kg):          677.0 
+Orbit:             Low Earth Orbit 
+ 
+Customer:          
+Name:              NASA 
+Type:              Government 
+Country:           United States 
+ 
+MissionOutcome:    Success 
+Failure Reason:         
+Landing Type:           
+Landing Outcome:        
+
+-----------------------------------------------------------
+Flight Number:     F9-9 
+Launch Date:       18-Apr-14 
+Launch Time:       19:25 
+Launch Site:       Cape Canaveral AFS LC-40 
+Vehicle Type:      Falcon 9 (v1.1) 
+
+Payload:          
+Name:              SpaceX CRS-3 
+Type:              Space Station Supplies 
+Mass(kg):          2296.0 
+Orbit:             Low Earth Orbit 
+ 
+Customer:          
+Name:              NASA 
+Type:              Government 
+Country:           United States 
+ 
+MissionOutcome:    Success 
+Failure Reason:         
+Landing Type:      Ocean 
+Landing Outcome:   Success 
+
+-----------------------------------------------------------
+Flight Number:     F9-13 
+Launch Date:       21-Sep-14 
+Launch Time:       5:52 
+Launch Site:       Cape Canaveral AFS LC-40 
+Vehicle Type:      Falcon 9 (v1.1) 
+
+Payload:          
+Name:              SpaceX CRS-4 
+Type:              Space Station Supplies 
+Mass(kg):          2216.0 
+Orbit:             Geostationary Transfer Orbit 
+ 
+Customer:          
+Name:              NASA 
+Type:              Government 
+Country:           United States 
+ 
+MissionOutcome:    Success 
+Failure Reason:         
+Landing Type:      Ocean 
+Landing Outcome:   Success 
+
+-----------------------------------------------------------
+Flight Number:     F9-14 
+Launch Date:       10-Jan-15 
+Launch Time:       9:47 
+Launch Site:       Cape Canaveral AFS LC-40 
+Vehicle Type:      Falcon 9 (v1.1) 
+
+Payload:          
+Name:              SpaceX CRS-5 
+Type:              Space Station Supplies 
+Mass(kg):          2395.0 
+Orbit:             Low Earth Orbit 
+ 
+Customer:          
+Name:              NASA 
+Type:              Government 
+Country:           United States 
+ 
+MissionOutcome:    Success 
+Failure Reason:         
+Landing Type:      Ship 
+Landing Outcome:   Failure 
+
+-----------------------------------------------------------
+Flight Number:     F9-17 
+Launch Date:       14-Apr-15 
+Launch Time:       20:10 
+Launch Site:       Cape Canaveral AFS LC-40 
+Vehicle Type:      Falcon 9 (v1.1) 
+
+Payload:          
+Name:              SpaceX CRS-6 
+Type:              Space Station Supplies 
+Mass(kg):          1898.0 
+Orbit:             Low Earth Orbit 
+ 
+Customer:          
+Name:              NASA 
+Type:              Government 
+Country:           United States 
+ 
+MissionOutcome:    Success 
+Failure Reason:         
+Landing Type:      Ship 
+Landing Outcome:   Failure 
+
+-----------------------------------------------------------
+Flight Number:     F9-19 
+Launch Date:       28-Jun-15 
+Launch Time:       14:21 
+Launch Site:       Cape Canaveral AFS LC-40 
+Vehicle Type:      Falcon 9 (v1.1) 
+
+Payload:          
+Name:              SpaceX CRS-7 
+Type:              Space Station Supplies 
+Mass(kg):          1952.0 
+Orbit:             Low Earth Orbit 
+ 
+Customer:          
+Name:              NASA 
+Type:              Government 
+Country:           United States 
+ 
+MissionOutcome:    Failure 
+Failure Reason:    Vehicle Explosion During Flight 
+Landing Type:           
+Landing Outcome:        
+
+-----------------------------------------------------------
+Flight Number:     FT-3 
+Launch Date:       8-Apr-16 
+Launch Time:       20:43 
+Launch Site:       Cape Canaveral AFS LC-40 
+Vehicle Type:      Falcon 9 Full Thrust (v1.2) 
+
+Payload:          
+Name:              SpaceX CRS-8 
+Type:              Space Station Supplies 
+Mass(kg):          3136.0 
+Orbit:             Low Earth Orbit 
+ 
+Customer:          
+Name:              NASA 
+Type:              Government 
+Country:           United States 
+ 
+MissionOutcome:    Success 
+Failure Reason:         
+Landing Type:      Ship 
+Landing Outcome:   Success 
+
+-----------------------------------------------------------
+Flight Number:     FT-7 
+Launch Date:       18-Jul-16 
+Launch Time:       4:45 
+Launch Site:       Cape Canaveral AFS LC-40 
+Vehicle Type:      Falcon 9 Full Thrust (v1.2) 
+
+Payload:          
+Name:              SpaceX CRS-9 
+Type:              Space Station Supplies 
+Mass(kg):          2257.0 
+Orbit:             Low Earth Orbit 
+ 
+Customer:          
+Name:              NASA 
+Type:              Government 
+Country:           United States 
+ 
+MissionOutcome:    Success 
+Failure Reason:         
+Landing Type:      Land 
+Landing Outcome:   Success 
+
+-----------------------------------------------------------
+Flight Number:     F9-8 
+Launch Date:       6-Dec-14 
+Launch Time:       22:06 
+Launch Site:       Cape Canaveral AFS LC-40 
+Vehicle Type:      Falcon 9 (v1.1) 
+
+Payload:          
+Name:              Thaicom 6 
+Type:              Communication Satellite 
+Mass(kg):          3325.0 
+Orbit:             Geostationary Transfer Orbit 
+ 
+Customer:          
+Name:              Thaicom 
+Type:              Business 
+Country:           Thailand 
+ 
+MissionOutcome:    Success 
+Failure Reason:         
+Landing Type:      None 
+Landing Outcome:        
+
+-----------------------------------------------------------
+Flight Number:     FT-5 
+Launch Date:       27-May-16 
+Launch Time:       21:39 
+Launch Site:       Cape Canaveral AFS LC-40 
+Vehicle Type:      Falcon 9 Full Thrust (v1.2) 
+
+Payload:          
+Name:              Thaicom 8 
+Type:              Communication Satellite 
+Mass(kg):          3100.0 
+Orbit:             Geostationary Transfer Orbit 
+ 
+Customer:          
+Name:              Thaicom 
+Type:              Business 
+Country:           Thailand 
+ 
+MissionOutcome:    Success 
+Failure Reason:         
+Landing Type:      Ship 
+Landing Outcome:   Success 
+
+-----------------------------------------------------------
+Flight Number:     F1-3 
+Launch Date:       3-Aug-08 
+Launch Time:       3:34 
+Launch Site:       Marshall Islands 
+Vehicle Type:      Falcon 1 
+
+Payload:          
+Name:              Trailblazer 
+Type:              Communication Satellite 
+Mass(kg):          0.0  
+Orbit:                  
+ 
+Customer:          
+Name:              ORS  
+Type:              Government 
+Country:           United States 
+ 
+MissionOutcome:    Failure 
+Failure Reason:    Collision During Launch 
+Landing Type:           
+Landing Outcome:        
+
+-----------------------------------------------------------
+Flight Number:     F9-18 
+Launch Date:       27-Apr-15 
+Launch Time:       23:03 
+Launch Site:       Cape Canaveral AFS LC-40 
+Vehicle Type:      Falcon 9 (v1.1) 
+
+Payload:          
+Name:              TurkmenAlem 52E/MonacoSAT 
+Type:              Communication Satellite 
+Mass(kg):          4707.0 
+Orbit:             Geostationary Transfer Orbit 
+ 
+Customer:          
+Name:              Turkmenistan NSA 
+Type:              Government 
+Country:           Turkmenistan 
+ 
+MissionOutcome:    Success 
+Failure Reason:         
+Landing Type:      None 
+Landing Outcome:        
+
